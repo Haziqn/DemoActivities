@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Demo Activities</string>
+    <string name="tvName">Name</string>
+    <string name="etName" />
+    <string name="tvAge">Age</string>
+    <string name="etAge" />
+    <string name="btnDone">Done</string>
+    <string name="tv1" />
 </resources>
